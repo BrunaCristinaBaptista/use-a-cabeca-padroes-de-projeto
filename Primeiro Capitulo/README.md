@@ -34,4 +34,8 @@ Para resolver isso, o projeto aplica três princípios fundamentais de Orientaç
 
 ---
 
-[https://drive.google.com/file/d/1dEOqDXVD0vH3hvXzFSXTFDzo2nZm4d9V/view?usp=sharing](https://drive.google.com/file/d/1dEOqDXVD0vH3hvXzFSXTFDzo2nZm4d9V/view?usp=sharing)
+## 📐 Modelagem UML
+
+[![Diagrama UML do Projeto](assets/Diagrama.jpeg)](https://drive.google.com/file/d/1dEOqDXVD0vH3hvXzFSXTFDzo2nZm4d9V/view?usp=sharing)
+
+<sub>Clique na imagem para abrir no Google Drive.</sub>
